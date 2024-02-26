@@ -1,10 +1,10 @@
-# IR-Forensic-collection
+# Windows IR-Forensic-collection
 Basic forensic artefact collection scripts
 
 Disable any antivirus/EDR solution before running this script or put this folder under exception
 You will have to run command prompt with admin privilege and navigate to the location where this script is downloaded and extracted. (Eg in CMD type > cd C:\Users\admin\Downloads\Windows-IR-Script-v2)
 And then simply run the "Windows-IR-Script-v2.bat" from the cmd prompt.
-This script will copy and generate many files/logs in its current working location.
+This script will copy and generate multiple artefacts/logs in its current working directory.
 
 Note :
 	Below windows programs will be executed as part of this script:
