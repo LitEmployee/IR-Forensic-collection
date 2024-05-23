@@ -1,5 +1,5 @@
 # Windows IR-Forensic-collection
-Basic forensic artefact collection scripts
+This script offers a fundamental and streamlined approach to collect forensic artifacts, facilitating the investigation of system compromise
 
 Disable any antivirus/EDR solution before running this script or put this folder under exception
 You will have to run command prompt with admin privilege and navigate to the location where this script is downloaded and extracted. (Eg in CMD type > cd C:\Users\admin\Downloads\Windows-IR-Script-v2)
